@@ -1,0 +1,21 @@
+export default Images = {
+  img_table_header_bg: require('../assest/images/tableHeaderBg/tableHeaderBg.png'),
+  img_add_image_button: require('../assest/images/addImageIcon/addImageIcon.png'),
+  img_app_background: require('../assest/images/appBackground/appBackground.png'),
+  img_back_icon: require('../assest/images/backIcon/backIcon.png'),
+  img_blue_box_icon: require('../assest/images/blueBoxBg/blueBoxBg.png'),
+  img_close_icon: require('../assest/images/closeIcon/closeIcon.png'),
+  img_drop_down_arrow: require('../assest/images/dropDownArrow/dropDownArrow.png'),
+  img_dummy_image: require('../assest/images/dummyImage/dummyImage.png'),
+  img_minus_sign: require('../assest/images/minusSign/minusSign.png'),
+  img_placeholder_image: require('../assest/images/placeholder/placeholder.png'),
+  img_plus_sign: require('../assest/images/plusSign/plusSign.png'),
+  img_table_view_bg: require('../assest/images/tableViewBg/tableViewBg.png'),
+  img_trash_icon: require('../assest/images/trashIcon/trashIcon.png'),
+
+  img_pending_icon: require('../assest/images/pendingIcon/pendingIcon.png'),
+  img_uploaded_icon: require('../assest/images/uploadedIcon/uploadedIcon.png'),
+  img_complete_icon: require('../assest/images/completeIcon/completeIcon.png'),
+  img_incomplete_icon: require('../assest/images/incompleteIcon/incompleteIcon.png'),
+  img_whiteBack_icon: require('../assest/images/whiteBackIcon/whiteBackIcon.png'),
+};
